@@ -1,8 +1,12 @@
 ### Hi there 👋
-Priyankush this side! /n
+Priyankush this side! 
+
 An ML, DL and Flutter Development Enthusiast
+
 Hoping to code better... everyday
+
 Reach me at email- priyankushk29@gmail.com
+
 Fun Fact- I love designing UIs as well :)
 
 
